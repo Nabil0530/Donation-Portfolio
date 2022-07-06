@@ -1,0 +1,314 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.first-section-div {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 400px;
+
+}
+
+.first-section-h1 {
+    color: beige;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.first-section-p {
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 150px;
+}
+
+
+.first-section-a {
+    text-decoration: none;
+    color: beige;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 23px 43px;
+    border-radius: 40px;
+
+}
+
+.first-section {
+    background-image: url(images/Child\ Proverty.jfif);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.second-section-div {
+    text-align: center;
+}
+
+.second-section-h1 {
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.second-section-p {
+    font-size: 20px;
+    padding-left: 15.5%;
+    padding-right: 14.5%;
+    color: gray;
+}
+
+.second-section {
+    margin-bottom: 50px;
+}
+
+.third-section {
+    display: flex;
+    margin-left: 13.5%;
+    margin-bottom: 10%;
+
+}
+
+.third-section-div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-shadow: 5px 5px 20px gray;
+    margin-left: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#third-section-id {
+    color: bisque;
+    background-image: linear-gradient(tomato, lightsalmon);
+
+}
+
+.fourth-section-div {
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 2px solid lightgray;
+    margin-left: 15.5%;
+    margin-right: 14.5%;
+}
+
+.fourth-section {
+    margin-bottom: 150px;
+}
+
+.fourth-section-a {
+    text-decoration: none;
+    color: beige;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 23px 43px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 15px gray;
+}
+
+.fourth-section-div-a {
+    margin-top: 80px;
+    margin-left: 44%;
+}
+
+.fourth-section-p {
+    color: gray;
+}
+
+.fifth-section-div {
+    text-align: center;
+}
+
+.fifth-section-h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.fifth-section-p {
+    font-size: 20px;
+    padding-left: 15.5%;
+    padding-right: 14.5%;
+    color: gray;
+}
+
+.fifth-section {
+    margin-bottom: 5%;
+}
+
+.sixth-section {
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 15%;
+
+}
+
+.sixth-section-div {
+
+    text-align: left;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.sixth-section-p {
+    font-size: 16px;
+    color: gray;
+
+}
+
+#sixth-section-id-paleturquoise {
+    background-color: rgb(229, 241, 241);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-left: 7px solid cadetblue;
+
+}
+
+#sixth-section-id-lightpink {
+    background-color: rgb(250, 234, 237);
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-left: 7px solid darksalmon;
+}
+
+#sixth-section-id-bisque {
+    background-color: rgb(252, 243, 210);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+    border-left: 7px solid burlywood;
+}
+
+.icon {
+    width: 15%;
+}
+
+.seventh-section {
+    display: flex;
+    margin-bottom: 15%;
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-size: cover;
+}
+
+.seventh-section-div {
+    margin-left: 5%;
+    padding-right: 5%;
+}
+
+.seventh-section-div-img {
+    margin-right: 5%;
+    width: 100%;
+}
+
+.seventh-section-p {
+    font-size: 18px;
+    color: gray;
+    margin-bottom: 60px;
+}
+
+.seventh-section-h2 {
+    color: darkolivegreen;
+}
+
+.seventh-section-a {
+    text-decoration: none;
+    color: beige;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 23px 43px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 15px gray;
+    font-size: 20px;
+}
+
+.eighth-section-div {
+    text-align: center;
+}
+
+.eighth-section-h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.eighth-section-p {
+    font-size: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.eight-section {
+    margin-bottom: 5%;
+}
+
+.nineth-section {
+    margin-bottom: 10%;
+}
+
+.nineth-section-form {
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+.nineth-section-input {
+    height: 40px;
+    width: 300px;
+    margin-left: 26%;
+    border-radius: 5px;
+    background-image: linear-gradient(lightgray, darkgrey);
+    border: 2px solid darkgray;
+}
+
+#email-space {
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.nineth-section-button {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border-radius: 5px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border: 2px solid lightsalmon;
+}
+
+#subscribe-space {
+    font-size: 15px;
+    color: beige;
+}
+
+.nineth-section-div {
+    background-image: linear-gradient(burlywood, bisque);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.footer-h1 {
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 700;
+    color: tomato;
+}
+
+.footer-section {
+    text-align: center;
+    background-image: linear-gradient(midnightblue, black);
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.footer-p {
+    font-size: 20px;
+    color: beige
+}
